@@ -18,6 +18,7 @@ E-mail: aagricola@email.gwu.edu
  This is a working list I will be adding to, and I hope you let me know if you find great resources you'd like me to add.
  - [Art 21](http://magazine.art21.org/)
  - [Rhizome](http://rhizome.org/)
+ - [Good Point Podcast](http://www.goodpointpodcast.com/)
  - [Bad at Sports Podcast](http://badatsports.com/)
  - [Media Net Art](http://www.mediaartnet.org/)
  - [WE make Money not Art](http://we-make-money-not-art.com/)
