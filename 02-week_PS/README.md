@@ -1,7 +1,7 @@
 # Week 1: Introduction
 
 ## Today:
-- Google drive folders & submitting assignments
+- [Google drive folders](https://drive.google.com/drive/folders/1Z2vpwq5KvqVxaZJ6-6Rl8N1CI9UO8s2l?usp=sharing) & submitting assignments
 - Discuss Unity Reading
 - Scanning
 - Introduction to Photoshop
@@ -27,6 +27,10 @@ Eugenia Loli
 
 "Collage artist Eugenia Loli uses photography scanned from vintage magazines and science publications to create bizarre visual narratives that borrow from aspects of pop art, dada, and traditional surrealism." [full text here](https://www.thisiscolossal.com/2014/10/surreal-collages-by-eugenia-loli/)
 
+![ordered variety](https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2015/07/biophilia_marley11.jpg?zoom=2&w=680&ssl=1)
+
+ Christopher Marley, "Chrysina Prism (France, Costa Rica, Indonesia, Honduras, Australia, Tanzania, Borneo)"
+
 ![Petra Cotright](https://img.artrabbit.com/events/petra-cortright-die-rose/images/S2baH6CWh6JN/1500x843/all-gold-everything-still3.webp)
 
 Petra Cotright, "Die Rose", 2016
@@ -41,7 +45,7 @@ Petra Cotright, "Die Rose", 2016
   - Variety
 
 ## Homework Assignment
-- Take three images and using adjustments in photoshop, alter how the image is read or perceived. You can make drastic or subtle changes. This assignment is based on the reading, so you may want to start by doing the reading. We will look at these in class in two weeks because next week is our field trip. (but I am also assigning homework next week so if you put it off you will have more to do next week)
+- Take three images and using adjustments in photoshop, alter how the image is read or perceived. Tell two truths and a lie. You can make drastic or subtle changes. This assignment is based on the reading, so you may want to start by doing the reading. We will look at these in class in two weeks because next week is our field trip. (but I am also assigning homework next week so if you put it off you will have more to do next week).  When you are finished with the edit, save it on it's own and make a new file with the edit and the original image side by side for looking at them in class. So you should turn in three files, each containing two images. 
 
 ## Homework
 - Finish unity assignment if you have not already
