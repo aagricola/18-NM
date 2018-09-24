@@ -1,4 +1,4 @@
-# Week 1: Introduction
+# Week 2: Scanning and Photoshop 
 
 ## Today:
 - [Google drive folders](https://drive.google.com/drive/folders/1Z2vpwq5KvqVxaZJ6-6Rl8N1CI9UO8s2l?usp=sharing) & submitting assignments
@@ -45,7 +45,7 @@ Petra Cotright, "Die Rose", 2016
   - Variety
 
 ## Homework Assignment
-- Take three images and using adjustments in photoshop, alter how the image is read or perceived. Tell two truths and a lie. You can make drastic or subtle changes. This assignment is based on the reading, so you may want to start by doing the reading. We will look at these in class in two weeks because next week is our field trip. (but I am also assigning homework next week so if you put it off you will have more to do next week).  When you are finished with the edit, save it on it's own and make a new file with the edit and the original image side by side for looking at them in class. So you should turn in three files, each containing two images. 
+- Take three images and using adjustments in photoshop, alter how the image is read or perceived. Tell two truths and a lie. You can make drastic or subtle changes. This assignment is based on the reading, so you may want to start by doing the reading. We will look at these in class in two weeks because next week is our field trip. (but I am also assigning homework next week so if you put it off you will have more to do next week).  When you are finished with the edit, save it on it's own and make a new file with the edit and the original image side by side for looking at them in class. So you should turn in three files, each containing two images.
 
 ## Homework
 - Finish unity assignment if you have not already
