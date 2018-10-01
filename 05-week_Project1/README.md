@@ -48,8 +48,6 @@ Adrienne Segal, "California Water Rights"
 
 ### Dear Data
 
-![dear data](https://static1.squarespace.com/static/54eec73ee4b0ae0904da0e94/t/579771ba9f7456e1da08976b/1469542868806/?format=2500w)
-
 [Full Project Site](http://www.dear-data.com/theproject)
 
 If you think you would like to do something that is a data visualization, check out this collaborative project that tracks daily activities between two pen pal designers, Giorgia Lupi and Stefanie Posavec. It is not highly technical, but it is very revealing of things that go unseen most days.
@@ -75,4 +73,4 @@ Requirements:
 - Write an Artist Statement to Accompany the work, print it, and bring it to the **Critique: OCT 22**
 
 ## Homework
-- Work on Project 1 : Your progress will be evaluated next week and this is part of the project grade. Please ask me questions if you are confused or want to do something that maybe we have not yet learned.
+- Work on Project 1 : Your progress will be evaluated next week and this is part of the project grade. Please ask me questions if you are confused or want to do something that maybe we have not yet learned. We will not have class next week due to FALL BREAK!! But that means you will still have that week to work on your project, so I expect to see around six hours worth of progress on whatever you are working on.
