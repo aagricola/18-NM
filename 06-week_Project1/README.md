@@ -1,4 +1,4 @@
-# Week 4: Images & Meaning
+# Week 4: Project 1 Work Week
 
 ## Today:
 - Presentation
