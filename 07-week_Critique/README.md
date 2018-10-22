@@ -7,7 +7,7 @@
 - Document & Submit to your folder
 - Intro to coding with Processing
 - hmmmm 
-
+git config --global user.email aagricola
 ## Poetic Computation
 
 git config --global user.email aagricola@mica.edu
