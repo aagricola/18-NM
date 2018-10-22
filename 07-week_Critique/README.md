@@ -7,6 +7,9 @@
 - Document & Submit to your folder
 - Intro to coding with Processing
 
+
+
+
 ## Poetic Computation
 
 git config --global user.email aagricola@mica.edu
