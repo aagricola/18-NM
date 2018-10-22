@@ -6,7 +6,7 @@
 - Critique (participation is graded)
 - Document & Submit to your folder
 - Intro to coding with Processing
-- hmmmm what
+- hmmmm what lol 
 git config --global user.email aagricola
 ## Poetic Computation
 
