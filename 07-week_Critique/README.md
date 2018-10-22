@@ -9,6 +9,8 @@
 
 ## Poetic Computation
 
+git config --global user.email aagricola@mica.edu
+
 *"The main challenge is trying to create work that touches people at an emotional level, as opposed to them thinking about the technology or wondering how it was made. Making poems, not demos, is how we refer to it, i.e. making work that is like a poem, short yet dense, re-tellable, rhythmic, meaningful as opposed to a demo that just feels like technology for technology's sake. "*    -Zach Lieberman
 
 ["Messa di Voce" (Placing the Voice)](https://vimeo.com/2892576) is a collaborative performance and audio visuals by Golan Levin, Jaap Blonk, Joan La Barbara, Zach Lieberman
