@@ -1,16 +1,18 @@
 # Week 7: Critique
 
 ## Today:
-- Presentation from Eunice  
-- Set up Projects
-- Critique (participation is graded)
-- Document & Submit to your folder
+- Presentation from Evan
+- Poetic Computation / Code in Art
 - Intro to coding with Processing
-- hmmmm what
-git config --global user.email aagricola
-## Poetic Computation
+  - Intro to processing
+  - Coding Environment
+  - Code Structure
+  - Built in Shape Functions
+  - Color Functions
+  - pImage
+  - Built in Variables (mouseX, mouseY, width, height)
 
-git config --global user.email aagricola@mica.edu
+## Poetic Computation
 
 *"The main challenge is trying to create work that touches people at an emotional level, as opposed to them thinking about the technology or wondering how it was made. Making poems, not demos, is how we refer to it, i.e. making work that is like a poem, short yet dense, re-tellable, rhythmic, meaningful as opposed to a demo that just feels like technology for technology's sake. "*    -Zach Lieberman
 
@@ -45,7 +47,7 @@ git config --global user.email aagricola@mica.edu
 
 And we talk to the computer using coded instructions called an algorithm. It is nothing more than a detailed instruction. While the word algorithm is usually used in the realm of computers, you could call any precise explanation of how to do something an algorithm - a baking recipe, knitting instruction, driving directions, ect.
 
-![enter image description here](https://chatteringcat.files.wordpress.com/2014/01/182207_689856959860_89904323_40644942_663757_n.jpg)
+![cloud](https://pbs.twimg.com/media/CqemzoLWEAAHR9e.jpg)
 *Yoko Ono, "Cloud Piece", 1963*
 
 ## In-class Assignment: Self Portrait
@@ -53,4 +55,6 @@ And we talk to the computer using coded instructions called an algorithm. It is 
  Make a sketch of yourself using simple lines and shapes incorporating some details about you - hobbies, place of origin, favorite food, or whatever. Think in primitive shapes like the ones we learned in Processing. Then translate your drawing into code in Processing. It can be representational or somewhat spontaneous and abstract.
 
 ## Homework
-- Reading from Form & Code located in resources folder at the top of today's post
+- Finish your processing drawing.
+- Look at the [Processing.org reference section](https://processing.org/reference/). Try to use two functions from the 2D Primitives, Curves, or Vertexes section that we did not use in class. Read about it and see if you can find a way to employ it in your drawing.
+- To review concepts learned in class today, watch [Daniel Shiffman's Coding Train Tutorials](https://www.youtube.com/watch?v=5N31KNgOO0g)
