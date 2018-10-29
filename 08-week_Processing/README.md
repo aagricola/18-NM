@@ -50,11 +50,12 @@ And we talk to the computer using coded instructions called an algorithm. It is 
 ![cloud](https://pbs.twimg.com/media/CqemzoLWEAAHR9e.jpg)
 *Yoko Ono, "Cloud Piece", 1963*
 
-## In-class Assignment: Self Portrait
+## Assignment: Self Portrait
 
  Make a sketch of yourself using simple lines and shapes incorporating some details about you - hobbies, place of origin, favorite food, or whatever. Think in primitive shapes like the ones we learned in Processing. Then translate your drawing into code in Processing. It can be representational or somewhat spontaneous and abstract.
+   - Look at the [Processing.org reference section](https://processing.org/reference/). Try to use two functions from the 2D Primitives, Curves, or Vertexes section that we did not use in class. Read about it and see if you can find a way to employ it in your drawing.
 
 ## Homework
 - Finish your processing drawing.
-- Look at the [Processing.org reference section](https://processing.org/reference/). Try to use two functions from the 2D Primitives, Curves, or Vertexes section that we did not use in class. Read about it and see if you can find a way to employ it in your drawing.
+- Reading from Form and Code 
 - To review concepts learned in class today, watch [Daniel Shiffman's Coding Train Tutorials](https://www.youtube.com/watch?v=5N31KNgOO0g)

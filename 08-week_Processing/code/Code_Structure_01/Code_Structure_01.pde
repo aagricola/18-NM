@@ -3,7 +3,7 @@
 
 // This is a single line comment! Anything after // on the same line is ignored when the code is run.
 
-/* 
+/*
  Multi-line comments
  Ignore anything between
  These funny symbols
@@ -15,7 +15,7 @@
 void setup() {
   // This area holds things that you want to initialize or that only need to be run once.
 
-  // This is a function, which is just a fancy word for command. 
+  // This is a function, which is just a fancy word for command.
   size(600, 400); // This function has two parameters (aka arguments), are set inside of parentheses and separated by a comma. Any line giving a command should end with a ;
 
   // All commands are run in consecutive order, like a script. So this command is run AFTER the previous one.

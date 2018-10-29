@@ -16,7 +16,7 @@ void setup(){
 void draw(){
  background(0, 200,255);
 
-//The arguments for imaage() function are: (image Object name, x, y);
+//The arguments for imaage() function are: image(Object name, x, y);
 //images are positioned from the top left corner by default
 image(pug, 0, 0);
 // Optional width and height arguments can also be added to resize images. This is in pixel dimensions.
