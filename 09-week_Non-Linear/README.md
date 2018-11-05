@@ -1,6 +1,5 @@
 # Hello Class!
 ## Today:
-- Presentations
 - Jump back in with Processing
   - Variables
   - Assignment Operations
@@ -59,12 +58,12 @@ The creator of the website has been a closely guarded secret. While the use of t
 
   [mouchette](http://www.mouchette.org/index.html)
 
-##Assignment
+## Assignment
 Non-linear story
 Using the skills we have learned in class so far, create a Non-linear story about an experience you have had.
 
 
-##Homework:
+## Homework:
 
 - Document your project and submit to folder if you have not already!!!
 - Finish your non-linear narrative assignment
