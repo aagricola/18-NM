@@ -29,24 +29,24 @@ And a few other things you will find in today's examples:
 
   “Access to computers and the Internet completely changed the way that I consumed information and organized ideas in my head. I saw information stacked on top of itself in simultaneity, no longer confined to spatiotemporal dimensions of the book.”  – Krystal South , quote from idyrslf.com
 
-  ![zork](http://amandaagricola.com/2017/IA2/wp-content/uploads/2017/04/Screen-Shot-2017-04-05-at-4.24.44-PM.png)
+  ![zork](https://classicreload.com/sites/default/files/msdos_zork1.jpg)
 
   Zork is one of the earliest interactive fiction computer games, with roots drawn from the original genre game, Colossal Cave Adventure. The first version of Zork was written between 1977 and 1979. The authors—Tim Anderson, Marc Blank, Bruce Daniels, and Dave Lebling—were members of the MIT Dynamic Modelling Group.
   Play the [demo](http://www.web-adventures.org/cgi-bin/webfrotz?s=ZorkDungeon&n=1709)
 
-  ![mbcbftw](http://amandaagricola.com/2017/IA2/wp-content/uploads/2017/04/Screen-Shot-2017-04-05-at-7.16.30-PM.png)
+  ![mbcbftw](http://networkcultures.org/affiliatedresearchers/wp-content/uploads/sites/35/2016/02/olia-lialina-20-years-of-my-boyfriend-came-back-from-the-war-large-107395.jpg)
 
   olia lialina,_ my boyfriend came back from the war_ (m.b.c.b.f.t.w.)
 
   It tells the story of two lovers who reunite after an unspecified conflict. Fragments of dialogue convey the difficulty they have reconnecting, though not explicitly stated. She approaches the web as a medium similar to film. She calls it a netfilm. The flow splits and digresses into multiple threads, similar to a cinematic montage in which separate simultaneous actions are edited to produce the effect of simultaneity.
   [MBCBFTW](http://www.teleportacia.org/war/wara.htm)
 
-  ![yhc](http://amandaagricola.com/2017/IA2/wp-content/uploads/2017/04/young-hae_chang_heavy_industries__warning_reading_this_may_or_may_not_change_your_life.jpeg)
+  ![yhc](https://www.artpapers.org/wp-content/uploads/2018/03/yhchi_003-e1525200770884.jpg)
 
   Based in Seoul, South Korea,Young-hae Chang Heavy Industries, composed of the Korean Young-hae Chang and the American Marc Voge, combine text with jazz music with Flash productions in which they use solely the Monaco font. In these works they are breaking the Internet tendency to emphasize interactivity and foregrounding photo’s, illustrations and excessive use of colors.
   [Their site](http://www.yhchang.com/)
 
-  ![boys](http://amandaagricola.com/2017/IA2/wp-content/uploads/2017/04/Big-doll.jpg)
+  ![boys](https://anthology.rhizome.org/user/pages/12.brandon/bigdoll.png)
 
   Shu Lea Cheang, "Brandon", bigdoll interface,
    collaboration with Jordy Jones and Cherise Fong, 1998
@@ -61,9 +61,6 @@ The creator of the website has been a closely guarded secret. While the use of t
 
   [mouchette](http://www.mouchette.org/index.html)
 
-   ## In Class Assignment: Non-linear story
-   Using the skills we have learned in class so far, create a Non-linear story. Don't spend too much time on this. It is really just to put conditional logic into practice, so use one or two buttons.
-
 ##Assignment
 Non-linear story
 Using the skills we have learned in class so far, create a Non-linear story about an experience you have had.
@@ -71,6 +68,8 @@ Using the skills we have learned in class so far, create a Non-linear story abou
 
 ##Homework:
 
-- Finish your assignment
-- Read Krystal South's "idyrslf"
-- Document your project and submit to folder!
+- Document your project and submit to folder if you have not already!!!
+- Finish your non-linear narrative assignment
+- Read [Krystal South's "idyrslf"](http://idyrself.com/)
+- Optional: Review conditional logic with [Daniel Shiffman](https://www.youtube.com/watch?v=mVq7Ms01RjA&list=PLRqwX-V7Uu6YqykuLs00261JCqnL_NNZ_&index=2)
+- Optional: we will not be doing this in class, but you may find it useful if you want to continue programming with Processing to [Learn about Functions from Daniel Shiffman](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR&index=1)
