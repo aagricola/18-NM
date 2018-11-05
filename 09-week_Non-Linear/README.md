@@ -1,6 +1,6 @@
-# Welcome!
-
+# Hello Class!
 ## Today:
+- Presentations
 - Jump back in with Processing
   - Variables
   - Assignment Operations
