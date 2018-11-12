@@ -65,8 +65,10 @@ Using any combination of skills learned in class, create something that emphasiz
 
 ## Assignment
 Collect footage (found and shot) and create a video collage in Premier. See if you can approach one of the questions brought up from our reading.
-- This week I would like for you to collect the footage and assemble it in the timeline
-- Next week, you will add sound and visual effects
+- Collect the footage and assemble it in the timeline
+- Add your own sound
+- Experiement with visual effects
+- [This is the youtube converter we used](https://www.onlinevideoconverter.com/youtube-converter)
 
 ## Homework:
 
