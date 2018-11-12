@@ -64,10 +64,12 @@ This video is an animation of the process of saving an image file in continuousl
 Using any combination of skills learned in class, create something that emphasizes your experience of the global digital age. You can approach this from any number of angles; where are we presently, where are we headed, what are your fears or anxieties for the future? This is a very open ended project that is meant to give you freedom to explore a medium that was personally exciting to you, and one in which best communicates your conceptual idea.
 
 ## Assignment
-Collect footage (found and shot) and create a video collage in Premier. See if you can approach one of the questions brought up from our reading. 
+Collect footage (found and shot) and create a video collage in Premier. See if you can approach one of the questions brought up from our reading.
+- This week I would like for you to collect the footage and assemble it in the timeline
+- Next week, you will add sound and visual effects
 
 ## Homework:
 
-- Video collage
+- Video collage assemblage
 - [Premier Lynda tutorials Ch 4 -7](https://www.lynda.com/Premiere-Pro-tutorials/Welcome/758639/808536-4.html)
 - Project proposal and timeline
