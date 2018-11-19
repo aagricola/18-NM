@@ -33,7 +33,9 @@ People Like Us, Gone Gone Beyond, 2018
 
 [The End of the Sound of Music](http://peoplelikeus.org/2011/the-sound-of-the-end-of-music/)
 
-![pip](https://235bowery.s3.amazonaws.com/exhibitionimages/332/thumbnails/20000x1080x1.jpghttps://235bowery.s3.amazonaws.com/exhibitionimages/332/thumbnails/20000x1080x1.jpg)
+![pip](http://artfcity.com/wp-content/uploads/2016/12/28RISTJP4-master675-640x428.jpg)
+
+![rist](https://static.mfah.com/app/images/eaeb845c-505b-e711-80cf-0050569125fe.636341754350419206.jpg?maxWidth=1600&maxHeight=1600&format=jpg&quality=90)
 
 ![pix](https://prismic-io.s3.amazonaws.com/masterdynamic/bb951b801a1469afade395f1c991f9649b0eec7f_blog_pipilottirist_02.jpg)
 
