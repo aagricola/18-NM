@@ -86,3 +86,4 @@ Dec 10 - Critique
 ## Homework:
 
 - Make progress on Project 2 (remember, showing gradual progress is part of your project grade)
+- Have a Happy and Restful Thanksgiving!!!
